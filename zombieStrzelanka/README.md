@@ -3,8 +3,8 @@
 
 Gra skupiona na strzelaniu do 2D zombiaków, które przychodzą z krawedzi ekranu. Celem gry jest uzyskanie 50 punktów poprzez strzelanie do nieumarłych.
 Sterowanie:
-  WASD - sterowanie postacią
-  LPM(lewy przycisk myszy) - wystrzał broni
+-  WASD - sterowanie postacią
+-  LPM(lewy przycisk myszy) - wystrzał broni
 
 Funkcjonalności:
 -  Sterowanie graczem poprzez klawisze WASD.
