@@ -13,7 +13,7 @@ Funkcjonalności:
 -  Pociski trafiają zombie i je zabijają
 -  Gracz może przyjąć kilka uderzeń
 -  Bronie(pistolet, karabin, strzelba)
--  Gracz i Zombie mają animacje chodzenia
+-  Gracz i Zombie mają animacje chodzenia(stworzone w PISKEL)
 -  Odbicie graficzne w zależności od kierunku chodzenia (lewo, prawo)
 -  Dźwięki wystrzału
 -  Dźwięki powalanych zombie
