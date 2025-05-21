@@ -7,7 +7,7 @@ WASD - sterowanie postacią
 LPM(lewy przycisk myszy) - wystrzał broni
 
 Funkcjonalności:
-Sterowanie graczem poprzez klawisze WASD.
+-  Sterowanie graczem poprzez klawisze WASD.
 -  Strzelanie różnymi typami broni
 -  Zombie, które podchodzą do gracza i zadają mu obrażenia
 -  Pociski trafiają zombie i je zabijają
