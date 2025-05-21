@@ -10,12 +10,12 @@ Funkcjonalności:
 Sterowanie graczem poprzez klawisze WASD.
 -  Strzelanie różnymi typami broni
 -  Zombie, które podchodzą do gracza i zadają mu obrażenia
--Pociski trafiają zombie i je zabijają
--Gracz może przyjąć kilka uderzeń
--Bronie(pistolet, karabin, strzelba)
--Gracz i Zombie mają animacje chodzenia
--Odbicie graficzne w zależności od kierunku chodzenia (lewo, prawo)
--Dźwięki wystrzału
--Dźwięki powalanych zombie
--Ekran startowy, wyboru broni
--Ekran końcowy z możliwością zakończenia gry lub restartu
+-  Pociski trafiają zombie i je zabijają
+-  Gracz może przyjąć kilka uderzeń
+-  Bronie(pistolet, karabin, strzelba)
+-  Gracz i Zombie mają animacje chodzenia
+-  Odbicie graficzne w zależności od kierunku chodzenia (lewo, prawo)
+-  Dźwięki wystrzału
+-  Dźwięki powalanych zombie
+-  Ekran startowy, wyboru broni
+-  Ekran końcowy z możliwością zakończenia gry lub restartu
